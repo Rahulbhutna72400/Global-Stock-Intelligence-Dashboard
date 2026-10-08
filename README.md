@@ -1,4 +1,4 @@
-# Global Stock Intelligence Dashboard
+# 📈 Global Stock Intelligence Dashboard
 
 <div align="center">
 
@@ -18,7 +18,7 @@ Analyze market movements, explore stock performance, compare global markets, and
 
 ---
 
-# Project Overview
+# 🌍 Project Overview
 
 Financial markets generate enormous amounts of data daily, making it difficult for investors and analysts to quickly identify trends, compare markets, and understand stock behavior.
 
@@ -35,9 +35,9 @@ The goal is not just visualization — but helping users understand **what is ha
 
 ---
 
-# Key Features
+# 🚀 Key Features
 
-## Interactive Market Analytics
+## 📊 Interactive Market Analytics
 
 - Dynamic stock filtering
 - Country-level exploration
@@ -45,7 +45,7 @@ The goal is not just visualization — but helping users understand **what is ha
 - Real-time dashboard interactions
 - Market storytelling approach
 
-## Global Market Coverage
+## 🌎 Global Market Coverage
 
 Supports stocks across:
 
@@ -70,7 +70,7 @@ Supports stocks across:
 🇮🇹 Italy  
 🇪🇸 Spain  
 
-## Stock Intelligence Features
+## 📈 Stock Intelligence Features
 
 - Top gainers identification
 - Biggest losers tracking
@@ -81,7 +81,7 @@ Supports stocks across:
 - Candlestick visualization
 - Trend exploration
 
-## Dashboard Experience
+## 🎨 Dashboard Experience
 
 - Premium dark UI
 - Interactive KPI cards
@@ -91,7 +91,7 @@ Supports stocks across:
 
 ---
 
-# Business Questions Answered
+# 🧠 Business Questions Answered
 
 This dashboard helps answer:
 
@@ -104,7 +104,7 @@ This dashboard helps answer:
 
 ---
 
-# Project Structure
+# 📂 Project Structure
 
 ```text
 Global-Stock-Intelligence-Dashboard/
@@ -130,7 +130,7 @@ Global-Stock-Intelligence-Dashboard/
 
 ---
 
-# Dataset Information
+# 📊 Dataset Information
 
 | Attribute | Details |
 |----------|----------|
@@ -144,7 +144,7 @@ Global-Stock-Intelligence-Dashboard/
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -159,7 +159,7 @@ Global-Stock-Intelligence-Dashboard/
 
 ---
 
-# Dashboard Preview
+# 📸 Dashboard Preview
 
 ## Stock Exploration
 
@@ -182,7 +182,7 @@ Global-Stock-Intelligence-Dashboard/
 
 ---
 
-# Installation
+# ⚙️ Installation
 
 Clone repository:
 
@@ -210,7 +210,7 @@ python -m streamlit run app.py
 
 ---
 
-# Future Improvements
+# 🔥 Future Improvements
 
 - Risk Metrics
 - Sharpe Ratio
@@ -221,7 +221,7 @@ python -m streamlit run app.py
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
 **Prathmesh Bhoyar**
 
@@ -235,7 +235,7 @@ Passionate about:
 
 ---
 
-# Support
+# ⭐ Support
 
 If you found this project useful:
 
